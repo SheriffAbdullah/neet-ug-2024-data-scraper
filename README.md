@@ -2,9 +2,9 @@
 
 This dataset contains information about various centers and the performance of students at these centers across all states in India. Each record represents a student's score along with associated details about the center they belong to. This dataset can be used for analyzing student performance across different centers and exploring various statistical properties of the scores.
 
-<hr>
-
 This dataset contains information scraped from this <a href="https://neet.ntaonline.in/frontend/web/common-scorecard/index?-open-reg">website</a>.
+
+<hr>
 
 I do not claim that this data is sourced from the official website. This dataset is provided purely for educational and research purposes as part of a personal project. I assume no responsibility or liability for the accuracy, completeness, or legality of the data. Users of this dataset are advised to verify the information independently. Any use of this dataset is at the user's own risk.
 
