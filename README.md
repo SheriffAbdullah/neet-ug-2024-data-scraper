@@ -2,7 +2,9 @@
 
 This dataset contains information about various centers and the performance of students at these centers across all states in India. Each record represents a student's score along with associated details about the center they belong to. This dataset can be used for analyzing student performance across different centers and exploring various statistical properties of the scores.
 
-This dataset contains information scraped from this <a href="https://neet.ntaonline.in/frontend/web/common-scorecard/index?-open-reg">website</a>.
+Link to <a href="https://www.kaggle.com/datasets/abdullahshf/neet-ug-2024-results-all-india">dataset</a>.
+
+This dataset contains information scraped from the official <a href="https://neet.ntaonline.in/frontend/web/common-scorecard/index?-open-reg">NTA website</a>.
 
 <hr>
 
