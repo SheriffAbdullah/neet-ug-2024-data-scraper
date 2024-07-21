@@ -14,5 +14,3 @@ I do not claim that this data is sourced from the official website. This dataset
 <b>No Liability:</b> I do not accept any responsibility or liability for any consequences arising from the use of this dataset. Users are solely responsible for their use and interpretation of the data.
 
 <b>Data Accuracy:</b> No guarantee is provided. Users are encouraged to validate the data independently before use.
-
-<b>Legal Compliance:</b> Users are responsible for complying with all applicable laws and regulations when using this dataset, including but not limited to data protection laws and intellectual property rights.
